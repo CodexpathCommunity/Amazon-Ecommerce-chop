@@ -67,3 +67,31 @@
   margin-right: 10px;
   color: white;
 }
+@media screen and (max-width: 414px) {
+  .header__search {
+    display: none;
+  }
+}
+@media screen and (max-width: 375px) {
+  .header__optionLineOne {
+    font-size: 8px;
+  }
+
+  .header__optionLineTwo {
+    font-size: 12px;
+    font-weight: 500;
+  }
+  .header__option {
+    margin: 0 3px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .header__optionLineOne {
+    font-size: 7px;
+  }
+
+  .header__optionLineTwo {
+    font-size: 10px;
+    font-weight: 400;
+  }
+}

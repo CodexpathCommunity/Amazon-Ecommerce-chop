@@ -17,3 +17,10 @@
   margin-left: 5px;
   margin-right: 5px;
 }
+
+@media screen and (max-width: 640px) {
+  .home__row {
+    flex-direction: column;
+    margin-top: 85px;
+  }
+}

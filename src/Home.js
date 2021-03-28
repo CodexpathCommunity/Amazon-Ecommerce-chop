@@ -8,23 +8,23 @@ function Home() {
       <div className="home__container">
         <img
           className="home__image"
-          src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg"
+          src="https://m.media-amazon.com/images/G/01/AdProductsWebsite/long-term-assets/ad-specs/ss_expanse_do.jpg"
           alt=""
         />
         <div className="home__row">
           <Product
             id="12321341"
-            title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
-            price={11.96}
+            title="iPhone 11pro, 120hz display"
+            price={1130.96}
             rating={5}
-            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
+            image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdjfjX9NCPE_uExSTZGHDwVDhIUbunnv7J1A&usqp=CAU"
           />
           <Product
             id="49538094"
-            title="Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, 5 Litre Glass Bowl"
+            title="Original football boot for the greatest of all times"
             price={239.0}
-            rating={4}
-            image="https://images-na.ssl-images-amazon.com/images/I/81O%2BGNdkzKL._AC_SX450_.jpg"
+            rating={5}
+            image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8SkbpwSS2g_eMtvcKhRvnxDWuKpyMVFFw1lz7ReXnWBydmh2W9-GXe9N5q-WrPL-N278&usqp=CAU"
           />
         </div>
 
